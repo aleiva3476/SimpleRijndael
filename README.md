@@ -1,5 +1,5 @@
 # SimpleRijndael
- Simple implementation of the Rijndael algorithm
+ Simple usage of the Rijndael algorithm in .NET
 
 Example of usage:
 
